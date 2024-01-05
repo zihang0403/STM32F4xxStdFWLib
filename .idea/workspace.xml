@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="STM32F4xxStdFWLib" targetName="STM32F4xxStdFWLib.elf" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5323cfcf-b781-4746-adcf-f0fa89c2e1ab" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="2aW6UPe5s1NgYdSfEWg5h8B4moe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Core/Inc" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ProgramTools\Codefile\keil5file\ARM\STM32F4xxStdFWLib\Core\Inc" />
+      <recent name="D:\ProgramTools\Codefile\keil5file\ARM\STM32F4xxStdFWLib\Core\Src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\ProgramTools\Codefile\keil5file\ARM\STM32F4xxStdFWLib\Core\Inc" />
+      <recent name="D:\ProgramTools\Codefile\keil5file\ARM\STM32F4xxStdFWLib\BSP\Src" />
+      <recent name="D:\ProgramTools\Codefile\keil5file\ARM\STM32F4xxStdFWLib\BSP\Inc" />
+      <recent name="D:\ProgramTools\Codefile\keil5file\ARM\STM32F4xxStdFWLib\Core\Src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="OpenOCD Download &amp; Run.OCD STM32F4xxStdFWLib">
+    <configuration name="STM32F4xxStdFWLib.elf" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="STM32F4xxStdFWLib" TARGET_NAME="STM32F4xxStdFWLib.elf" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="STM32F4xxStdFWLib" RUN_TARGET_NAME="STM32F4xxStdFWLib.elf">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OCD STM32F4xxStdFWLib" type="com.jetbrains.cidr.embedded.openocd.conf.type" factoryName="com.jetbrains.cidr.embedded.openocd.conf.factory" PASS_PARENT_ENVS_2="true" PROJECT_NAME="STM32F4xxStdFWLib" TARGET_NAME="STM32F4xxStdFWLib.elf" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="STM32F4xxStdFWLib" RUN_TARGET_NAME="STM32F4xxStdFWLib.elf">
+      <openocd gdb-port="3333" telnet-port="4444" board-config="D:\ProgramTools\Codefile\keil5file\ARM\STM32F4xxStdFWLib\config\daplink.cfg" reset-type="INIT" download-type="ALWAYS" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.STM32F4xxStdFWLib.elf" />
+      <item itemvalue="OpenOCD Download &amp; Run.OCD STM32F4xxStdFWLib" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5323cfcf-b781-4746-adcf-f0fa89c2e1ab" name="Default Changelist" comment="" />
+      <created>1704422002600</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1704422002600</updated>
+      <workItem from="1704422023610" duration="5022000" />
+      <workItem from="1704435662473" duration="2859000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="225" y="88" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1704422608881">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="225" y="88" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1704422608881" />
+    <state x="772" y="170" key="FileChooserDialogImpl" timestamp="1704422603247">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="772" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1704422603247" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1704438916237">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1704438916237" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1704438916237">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1704438916237" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1704438916237">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1704438916237" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1704438916237">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1704438916237" />
+    <state x="442" y="66" key="SettingsEditor" timestamp="1704437045235">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="442" y="66" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1704437045235" />
+    <state x="457" y="167" width="621" height="490" key="find.popup" timestamp="1704426029414">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="457" y="167" width="621" height="490" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1704426029414" />
+    <state x="491" y="251" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1704432454039">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="491" y="251" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1536.824@0.0.1536.824" timestamp="1704432454039" />
+  </component>
+</project>

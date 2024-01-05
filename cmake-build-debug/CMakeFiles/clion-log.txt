@@ -1,0 +1,4 @@
+D:\ProgramTools\Clion\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" D:\ProgramTools\Codefile\keil5file\ARM\STM32F4xxStdFWLib
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/ProgramTools/Codefile/keil5file/ARM/STM32F4xxStdFWLib/cmake-build-debug
